@@ -17,8 +17,11 @@ This Advanced Loan Calculator is a comprehensive financial tool that:
 6-Generates downloadable reports of payment schedules
 
 Installation Guide:
+
 1-Clone the repository or download the App.py file
+
 2-pip install streamlit pandas numpy matplotlib pillow
+
 3-streamlit run App.py
 
 Key Features:
