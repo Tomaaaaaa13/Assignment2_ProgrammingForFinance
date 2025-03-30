@@ -1,7 +1,11 @@
 # Assignment2_ProgrammingForFinance
+
 Course Name: AF3005 – Programming for Finance
+
 Instructor Name: Dr. Usama Arshad
-App Overview:  
+
+#App Overview: 
+
 This Advanced Loan Calculator is a comprehensive financial tool that:
 
 1-Calculates loan payments with amortization schedules
@@ -16,7 +20,7 @@ This Advanced Loan Calculator is a comprehensive financial tool that:
 
 6-Generates downloadable reports of payment schedules
 
-Installation Guide:
+#Installation Guide:
 
 1-Clone the repository or download the App.py file
 
@@ -24,7 +28,8 @@ Installation Guide:
 
 3-streamlit run App.py
 
-Key Features:
+#Key Features:
+
 Accurate date calculations for all payment frequencies
 
 Visual payment breakdown with interactive charts
